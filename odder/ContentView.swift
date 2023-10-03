@@ -15,6 +15,7 @@ struct ContentView: View {
                 .frame(width: /*@START_MENU_TOKEN@*/100/*@END_MENU_TOKEN@*/, height: 100)
                 .foregroundStyle(.tint)
             Text("Hello, world!")
+            Text("I am the Chosen one")
         }
         .padding()
     }
