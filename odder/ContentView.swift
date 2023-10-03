@@ -16,6 +16,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("Hello, world!")
             Text("I am the Chosen one")
+            Text("Added to online Repo")
         }
         .padding()
     }
